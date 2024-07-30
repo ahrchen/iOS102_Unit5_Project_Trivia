@@ -10,11 +10,11 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
-  - [ ] Number of questions
-  - [ ] Category of questions
-  - [ ] Difficulty of questions
-  - [ ] Type of questions (Multiple Choice or True False)
+- [X] App launches to an Options screen where user can modify the types of questions presented when the game starts. Users should be able to choose:
+  - [X] Number of questions
+  - [X] Category of questions
+  - [X] Difficulty of questions
+  - [X] Type of questions (Multiple Choice or True False)
 - [ ] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
   - Hint: For Card view visit your FlashCard app. List view is an equivalent to UITableView in UIKit. Much easier to use!
 - [ ] Selected choices are marked as user taps their choice (but answered is not presented yet!)
