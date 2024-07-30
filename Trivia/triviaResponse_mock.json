@@ -1,0 +1,85 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+            "correct_answer": "Spruce Goose",
+            "incorrect_answers": ["Noah&#039;s Ark", "Fat Man", "Trojan Horse"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Who is depicted on the US hundred dollar bill?",
+            "correct_answer": "Benjamin Franklin",
+            "incorrect_answers": ["George Washington", "Abraham Lincoln", "Thomas Jefferson"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Five dollars is worth how many nickles?",
+            "correct_answer": "100",
+            "incorrect_answers": ["50", "25", "69"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What do the letters in the GMT time zone stand for?",
+            "correct_answer": "Greenwich Mean Time",
+            "incorrect_answers": ["Global Meridian Time", "General Median Time", "Glasgow Man Time"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "When was the Playstation 3 released?",
+            "correct_answer": "November 11, 2006",
+            "incorrect_answers": ["January 8, 2007", "December 25, 2007", "July 16, 2006"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which of these colours is NOT featured in the logo for Google?",
+            "correct_answer": "Pink",
+            "incorrect_answers": ["Yellow", "Blue", "Green"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What nuts are used in the production of marzipan?",
+            "correct_answer": "Almonds",
+            "incorrect_answers": ["Peanuts", "Walnuts", "Pistachios"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Who is the author of Jurrasic Park?",
+            "correct_answer": "Michael Crichton",
+            "incorrect_answers": ["Peter Benchley", "Chuck Paluhniuk", "Irvine Welsh"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+            "correct_answer": "Helicopter",
+            "incorrect_answers": ["Stealth Blimp", "Jet", "Space Capsule"]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Which one of these is not a typical European sword design?",
+            "correct_answer": "Scimitar",
+            "incorrect_answers": ["Falchion", "Ulfberht", "Flamberge"]
+        }
+    ]
+}
