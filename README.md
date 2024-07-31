@@ -15,14 +15,14 @@ The following **required** functionality is completed:
   - [X] Category of questions
   - [X] Difficulty of questions
   - [X] Type of questions (Multiple Choice or True False)
-- [ ] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
+- [X] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
   - Hint: For Card view visit your FlashCard app. List view is an equivalent to UITableView in UIKit. Much easier to use!
-- [ ] Selected choices are marked as user taps their choice (but answered is not presented yet!)
-- [ ] User can submit choices and is presented with a score on trivia game
+- [X] Selected choices are marked as user taps their choice (but answered is not presented yet!)
+- [X] User can submit choices and is presented with a score on trivia game
  
 The following **optional** features are implemented:
 
-- [ ] User has answer marked as correct or incorrect after submitting choices (alongside their score).
+- [X] User has answer marked as correct or incorrect after submitting choices (alongside their score).
 - [ ] Implement a timer that puts pressure on the user! Choose any time that works and auto submit choices after the timer expires. 
 
 The following **additional** features are implemented:
